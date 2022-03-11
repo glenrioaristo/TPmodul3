@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\semester 4\\7. Konstuksi perangkat lunak\\tpmod3_1302200052\\tpmod3_1302200052\\tpmod3_1302200052.csproj",
+      "projectUniqueName": "D:\\semester 4\\7. Konstuksi perangkat lunak\\TP\\modul 3\\TPmodul3\\tpmod3_1302200052\\tpmod3_1302200052\\tpmod3_1302200052.csproj",
       "projectName": "tpmod3_1302200052",
-      "projectPath": "D:\\semester 4\\7. Konstuksi perangkat lunak\\tpmod3_1302200052\\tpmod3_1302200052\\tpmod3_1302200052.csproj",
+      "projectPath": "D:\\semester 4\\7. Konstuksi perangkat lunak\\TP\\modul 3\\TPmodul3\\tpmod3_1302200052\\tpmod3_1302200052\\tpmod3_1302200052.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\semester 4\\7. Konstuksi perangkat lunak\\tpmod3_1302200052\\tpmod3_1302200052\\obj\\",
+      "outputPath": "D:\\semester 4\\7. Konstuksi perangkat lunak\\TP\\modul 3\\TPmodul3\\tpmod3_1302200052\\tpmod3_1302200052\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

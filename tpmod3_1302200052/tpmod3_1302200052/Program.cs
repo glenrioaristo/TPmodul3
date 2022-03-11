@@ -19,9 +19,11 @@ namespace tpmodul3_1302200052
             KodePos.getKodePos("Kebonwaru", "40272");
             KodePos.getKodePos("Maleer", "40274");
             KodePos.getKodePos("Samoja", "40274");
-            KodePos.getKodePos("Batununggal", "40273");
-        
-           
+
+            Console.WriteLine();
+            Console.WriteLine("Program DoorMachine");
+            DoorMachine.Mulai();
+
 
         }
     }

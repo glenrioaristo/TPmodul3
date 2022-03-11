@@ -13,3 +13,18 @@ D:\semester 4\7. Konstuksi perangkat lunak\tpmod3_1302200052\tpmod3_1302200052\o
 D:\semester 4\7. Konstuksi perangkat lunak\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.pdb
 D:\semester 4\7. Konstuksi perangkat lunak\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.genruntimeconfig.cache
 D:\semester 4\7. Konstuksi perangkat lunak\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\ref\tpmod3_1302200052.dll
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\bin\Debug\net6.0\tpmod3_1302200052.exe
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\bin\Debug\net6.0\tpmod3_1302200052.deps.json
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\bin\Debug\net6.0\tpmod3_1302200052.runtimeconfig.json
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\bin\Debug\net6.0\tpmod3_1302200052.dll
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\bin\Debug\net6.0\tpmod3_1302200052.pdb
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.csproj.AssemblyReference.cache
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.AssemblyInfoInputs.cache
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.AssemblyInfo.cs
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.csproj.CoreCompileInputs.cache
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.dll
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\refint\tpmod3_1302200052.dll
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.pdb
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\tpmod3_1302200052.genruntimeconfig.cache
+D:\semester 4\7. Konstuksi perangkat lunak\TP\modul 3\TPmodul3\tpmod3_1302200052\tpmod3_1302200052\obj\Debug\net6.0\ref\tpmod3_1302200052.dll
